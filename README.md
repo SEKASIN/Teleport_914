@@ -2,7 +2,7 @@
 EXILED plugin that teleports people out of SCP-914 in exchange of health.
 
 ## Installation
-Download IDS.dll from [Releases](https://github.com/SEKASIN/Teleport_914/blob/master/Releases)\
+Download teleport_914.dll from [Releases](https://github.com/SEKASIN/Teleport_914/blob/master/Releases)\
 Move Teleport_914.dll to .config/EXILED/Plugins and restart server.
 
 ## Configuration
