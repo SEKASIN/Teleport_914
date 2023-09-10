@@ -7,7 +7,7 @@ namespace Teleport_914.com.github.sekasin.teleport_914
     {
         public override string Name => "Teleport_914";
         public override string Author => "Ugi0";
-        public override Version Version => new Version(2, 0, 0);
+        public override Version Version => new Version(1, 1, 0);
         public EventHandler eventHandler;
         
         public override void OnEnabled() {
